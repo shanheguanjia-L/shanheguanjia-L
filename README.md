@@ -27,7 +27,7 @@ Everything is calculated in the browser — nothing is uploaded. The page is in 
 
 A 12-week, game-style course on prompt engineering and context engineering for complete beginners.
 Each "island" hides one way AI fails; you beat it by predicting, experimenting and explaining *why* it happens — Octalysis × Feynman technique × Pomodoro.
-Progress stays in your browser. Available in English, Traditional Chinese and Simplified Chinese.
+Progress stays in your browser. Available in English, Japanese, Traditional Chinese and Simplified Chinese.
 
 脈絡群島：給零基礎職場人士的 12 週提示詞工程與脈絡工程互動課程。每座島藏著一種 AI 失效方式，要先預測、做實驗、用 12 歲孩子聽得懂的話講出原理才能通關。
 
